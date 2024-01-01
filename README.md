@@ -4,7 +4,6 @@
 </a>
 <br/>
 
-<details>
 <summary>📈 Stats</summary>
 <br>
 My Github Stats
