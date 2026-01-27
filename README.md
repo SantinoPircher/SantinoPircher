@@ -1,6 +1,6 @@
 <p align="left">
 <a href="https://github.com/santinopircher">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Santino+Pircher;Student+%7C+Software+Engineer;Database+Systems+%7C+Operating+Systems+%7C+Visual+Computing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Santino+Pircher;Software+Engineer;Database+Systems+%7C+Distributed+Systems+%7C+Visual+Computing" alt="Typing SVG" />
 </a>
 <br/>
 
